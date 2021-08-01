@@ -2,6 +2,18 @@
 
 #### Motion Detection technology in Commonly used in our daily life. This feature is used in CCTV Cameras to detect any kind of motion in the video frame. In this repository, we are going to make a motion detection script using OpenCV in Python.
 
+# Installation
+
+First of all make sure you have Python installed in your system.
+
+Secondly you have to install pip. It can be installed easily using command prompt.
+
+    python -m pip install
+
+The last requirement is the OpenCV module. It can be installed using pip.
+
+    pip install opencv-python
+
 # STEPS FOR MOTION DETECTION USING OPENCV AND PYTHON
 
 **STEP 1:-** ***Capturing Real-time video from a camera or Reading recorded video.***
